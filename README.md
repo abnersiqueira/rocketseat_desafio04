@@ -14,7 +14,7 @@ Também fazer o filtro e entender como de fato os mecanismos de busca veem a min
 
 ### Conhecimentos técnicos: 
 - HTML:  importação de fontes, uso do H1 como título mais importante da minha página, propriedade NAVEGATOR, MAIN e FOOTER, além do uso de lista como: OL ou UL (ordem)
-- CSS:  uso da propriedade, :Hover,  Display Flex, Align-items, Text-Align, 
+- CSS:  uso da propriedade, :Hover,  Display Flex, Justify-content, Align-items, Text-Align, Padding e Text-Decoration.
 
 ## 🔒 Rocket.sect - Projeto final
 
